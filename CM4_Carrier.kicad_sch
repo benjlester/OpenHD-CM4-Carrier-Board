@@ -929,7 +929,7 @@
       (reference "R16") (unit 1) (value "36K 1%") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
     (path "/00000000-0000-0000-0000-00005e072e02/123c778d-0e56-4737-b82b-a38fac36ad65"
-      (reference "R31") (unit 1) (value "49.9k") (footprint "")
+      (reference "R31") (unit 1) (value "49.9k") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
     (path "/00000000-0000-0000-0000-00005e072e02/00000000-0000-0000-0000-00005db53e31"
       (reference "R36") (unit 1) (value "15K 1%") (footprint "Resistor_SMD:R_0402_1005Metric")
@@ -1013,10 +1013,10 @@
       (reference "C13") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0402_1005Metric")
     )
     (path "/00000000-0000-0000-0000-00005cff70b1/e375133d-2c01-4530-b3b4-8401921a7bf2"
-      (reference "J4") (unit 1) (value "DF40C-24DP-0.4V_51_") (footprint "DF40C24DP04V51")
+      (reference "J4") (unit 1) (value "DF40C-24DP-0.4V_51_") (footprint "Open-HD:DF40C24DP04V51")
     )
     (path "/00000000-0000-0000-0000-00005cff70b1/05881c57-5861-475a-a8eb-c1696fc4fe76"
-      (reference "J5") (unit 1) (value "DF40C-24DP-0.4V_51_") (footprint "DF40C24DP04V51")
+      (reference "J5") (unit 1) (value "DF40C-24DP-0.4V_51_") (footprint "Open-HD:DF40C24DP04V51")
     )
     (path "/00000000-0000-0000-0000-00005cff70b1/00000000-0000-0000-0000-00005e67855b"
       (reference "J6") (unit 1) (value "THD-02-R") (footprint "Connector_PinHeader_2.54mm:PinHeader_2x02_P2.54mm_Vertical")
@@ -1178,34 +1178,34 @@
       (reference "#PWR0120") (unit 1) (value "GND") (footprint "")
     )
     (path "/00000000-0000-0000-0000-00005d31f999/9bac4492-3b3d-4e35-9a7c-9e83a4f54107"
-      (reference "C18") (unit 1) (value "10uF") (footprint "")
+      (reference "C18") (unit 1) (value "10uF") (footprint "Capacitor_SMD:C_1210_3225Metric")
     )
     (path "/00000000-0000-0000-0000-00005d31f999/cba967bd-a23c-4567-aa2e-d7f5ea61f860"
-      (reference "C22") (unit 1) (value "10uF") (footprint "")
+      (reference "C22") (unit 1) (value "10uF") (footprint "Capacitor_SMD:C_1210_3225Metric")
     )
     (path "/00000000-0000-0000-0000-00005d31f999/d98cfaae-f990-4b93-b0c0-6cf2f7151c08"
-      (reference "C24") (unit 1) (value "220nF") (footprint "")
+      (reference "C24") (unit 1) (value "220nF") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/00000000-0000-0000-0000-00005d31f999/52db68f2-c857-45bd-a76a-28b207fff7fe"
-      (reference "C25") (unit 1) (value "1uF") (footprint "")
+      (reference "C25") (unit 1) (value "1uF") (footprint "Capacitor_SMD:C_0402_1005Metric")
     )
     (path "/00000000-0000-0000-0000-00005d31f999/9df2e437-cea8-495c-b733-236420035171"
-      (reference "C26") (unit 1) (value "100nF") (footprint "")
+      (reference "C26") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0402_1005Metric")
     )
     (path "/00000000-0000-0000-0000-00005d31f999/41c4d9b3-9000-46b3-b6b8-72d6288b8aa1"
-      (reference "C27") (unit 1) (value "10pF") (footprint "")
+      (reference "C27") (unit 1) (value "10pF") (footprint "Capacitor_SMD:C_0402_1005Metric")
     )
     (path "/00000000-0000-0000-0000-00005d31f999/882cfe54-e289-4450-a6f1-cef5b7b2546e"
-      (reference "C28") (unit 1) (value "22uF") (footprint "")
+      (reference "C28") (unit 1) (value "22uF") (footprint "Capacitor_SMD:C_0805_2012Metric")
     )
     (path "/00000000-0000-0000-0000-00005d31f999/b00d3f50-4a3f-4060-afcf-114e90ad60a5"
-      (reference "C29") (unit 1) (value "22uF") (footprint "")
+      (reference "C29") (unit 1) (value "22uF") (footprint "Capacitor_SMD:C_0805_2012Metric")
     )
     (path "/00000000-0000-0000-0000-00005d31f999/745839cc-af5a-49e7-a8e5-69b4af3cae4c"
-      (reference "C30") (unit 1) (value "22uF") (footprint "")
+      (reference "C30") (unit 1) (value "22uF") (footprint "Capacitor_SMD:C_0805_2012Metric")
     )
     (path "/00000000-0000-0000-0000-00005d31f999/880ff6dd-e185-4851-939f-66d84843a279"
-      (reference "C31") (unit 1) (value "100nF") (footprint "")
+      (reference "C31") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/00000000-0000-0000-0000-00005d31f999/00000000-0000-0000-0000-00005d32f618"
       (reference "C36") (unit 1) (value "100n 100v") (footprint "Capacitor_SMD:C_0402_1005Metric")
@@ -1223,19 +1223,19 @@
       (reference "J19") (unit 1) (value "XT30") (footprint "XT-30:AMASS_XT30PW-M_1x02_P2.50mm_Horizontal")
     )
     (path "/00000000-0000-0000-0000-00005d31f999/d5813001-907b-43c9-b447-f700e114f634"
-      (reference "L1") (unit 1) (value "4.7uH") (footprint "")
+      (reference "L1") (unit 1) (value "4.7uH") (footprint "Open-HD:IND_XAL6060-472MEB")
     )
     (path "/00000000-0000-0000-0000-00005d31f999/00000000-0000-0000-0000-00005ea9b8ba"
       (reference "Q1") (unit 1) (value "DMP3013SFV-7") (footprint "Package_SON:Diodes_PowerDI3333-8")
     )
     (path "/00000000-0000-0000-0000-00005d31f999/c5d8bae1-5d7a-45de-ba87-c97bc5aa1425"
-      (reference "R4") (unit 1) (value "100k") (footprint "")
+      (reference "R4") (unit 1) (value "100k") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
     (path "/00000000-0000-0000-0000-00005d31f999/ab11b2a0-3b25-4a03-9ff9-19b3302d1010"
-      (reference "R9") (unit 1) (value "100k") (footprint "")
+      (reference "R9") (unit 1) (value "100k") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
     (path "/00000000-0000-0000-0000-00005d31f999/8c4c2318-b2a6-4073-87cc-78cf7a936df6"
-      (reference "R19") (unit 1) (value "24.9k") (footprint "")
+      (reference "R19") (unit 1) (value "24.9k") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
     (path "/00000000-0000-0000-0000-00005d31f999/00000000-0000-0000-0000-00005e3f1beb"
       (reference "R26") (unit 1) (value "12K 1%") (footprint "Resistor_SMD:R_0402_1005Metric")
@@ -1244,7 +1244,7 @@
       (reference "TP2") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Pad_2.0x2.0mm")
     )
     (path "/00000000-0000-0000-0000-00005d31f999/9832245f-0b12-4fad-b752-471c03d9b2b7"
-      (reference "U8") (unit 1) (value "LMR33640DDDAR") (footprint "")
+      (reference "U8") (unit 1) (value "LMR33640DDDAR") (footprint "Open-HD:NOPB")
     )
   )
 )
