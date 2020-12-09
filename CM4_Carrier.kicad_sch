@@ -965,7 +965,7 @@
       (reference "C23") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0402_1005Metric")
     )
     (path "/00000000-0000-0000-0000-00005e328d89/00000000-0000-0000-0000-00005d0e2a28"
-      (reference "J17") (unit 1) (value "Molex 470531000") (footprint "Connector:FanPinHeader_1x04_P2.54mm_Vertical")
+      (reference "J17") (unit 1) (value "Molex 470531000") (footprint "Connector_Wire:SolderWirePad_1x01_SMD_1x2mm")
     )
     (path "/00000000-0000-0000-0000-00005e328d89/00000000-0000-0000-0000-00005d0e61c8"
       (reference "R21") (unit 1) (value "36K 1%") (footprint "Resistor_SMD:R_0402_1005Metric")
@@ -1105,6 +1105,9 @@
     (path "/00000000-0000-0000-0000-00005cff706a/e9c460a6-d3d6-4b89-9b3e-21adf7cc3b53"
       (reference "J9") (unit 1) (value "Conn_02x08_Odd_Even") (footprint "Connector_PinHeader_2.54mm:PinHeader_2x08_P2.54mm_Vertical")
     )
+    (path "/00000000-0000-0000-0000-00005cff706a/4d838886-3efe-47a8-943b-20cef6d74a4f"
+      (reference "J10") (unit 1) (value "Conn_01x20") (footprint "Connector_FFC-FPC:Molex_200528-0200_1x20-1MP_P1.00mm_Horizontal")
+    )
     (path "/00000000-0000-0000-0000-00005cff706a/00000000-0000-0000-0000-00005dc6d7d8"
       (reference "Module1") (unit 1) (value "ComputeModule4") (footprint "CM4IO:Raspberry-Pi-4-Compute-Module")
     )
@@ -1143,9 +1146,6 @@
     )
     (path "/00000000-0000-0000-0000-00005cff706a/00000000-0000-0000-0000-00005e48728e"
       (reference "U2") (unit 1) (value "TPD4EUSB30") (footprint "Package_SON:USON-10_2.5x1.0mm_P0.5mm")
-    )
-    (path "/00000000-0000-0000-0000-00005cff706a/00000000-0000-0000-0000-00005dc9735e"
-      (reference "U3") (unit 1) (value "MagJack-A70-112-331N126") (footprint "CM4IO:TRJG0926HENL")
     )
     (path "/00000000-0000-0000-0000-00005cff706a/00000000-0000-0000-0000-00005d4045a5"
       (reference "U5") (unit 1) (value "74LVC1G07SE-7") (footprint "Package_TO_SOT_SMD:SOT-353_SC-70-5")
@@ -1220,7 +1220,7 @@
       (reference "D4") (unit 1) (value "MMBZ5242BLT3G") (footprint "Diode_SMD:D_SOT-23_ANK")
     )
     (path "/00000000-0000-0000-0000-00005d31f999/d3730a1b-8270-4529-b3a9-ae6026321f36"
-      (reference "J19") (unit 1) (value "XT30") (footprint "XT-30:AMASS_XT30PW-M_1x02_P2.50mm_Horizontal")
+      (reference "J19") (unit 1) (value "XT30") (footprint "Open-HD:AMASS_XT30PW-M_1x02_P2.50mm_Horizontal")
     )
     (path "/00000000-0000-0000-0000-00005d31f999/d5813001-907b-43c9-b447-f700e114f634"
       (reference "L1") (unit 1) (value "4.7uH") (footprint "Open-HD:IND_XAL6060-472MEB")

@@ -1021,7 +1021,7 @@
     (uuid "d3730a1b-8270-4529-b3a9-ae6026321f36")
     (property "Reference" "J19" (id 0) (at 59.69 39.37 0))
     (property "Value" "XT30" (id 1) (at 59.69 41.91 0))
-    (property "Footprint" "XT-30:AMASS_XT30PW-M_1x02_P2.50mm_Horizontal" (id 2) (at 62.23 43.18 0)
+    (property "Footprint" "Open-HD:AMASS_XT30PW-M_1x02_P2.50mm_Horizontal" (id 2) (at 62.23 43.18 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at 62.23 43.18 0)

@@ -252,8 +252,8 @@
   (junction (at 106.68 140.97) (diameter 1.016) (color 0 0 0 0))
   (junction (at 144.78 140.97) (diameter 1.016) (color 0 0 0 0))
 
-  (no_connect (at 138.43 135.89))
   (no_connect (at 138.43 138.43))
+  (no_connect (at 138.43 135.89))
 
   (wire (pts (xy 102.87 125.73) (xy 144.78 125.73))
     (stroke (width 0) (type solid) (color 0 0 0 0))
@@ -478,7 +478,7 @@
     (property "Value" "Molex 470531000" (id 1) (at 181.61 147.955 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Connector:FanPinHeader_1x04_P2.54mm_Vertical" (id 2) (at 184.15 137.16 0)
+    (property "Footprint" "Connector_Wire:SolderWirePad_1x01_SMD_1x2mm" (id 2) (at 184.15 137.16 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://www.molex.com/pdm_docs/sd/470531000_sd.pdf" (id 3) (at 184.15 137.16 0)
