@@ -33,9 +33,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.762,
-          "height": 1.524,
-          "width": 1.524
+          "drill": 0.0,
+          "height": 0.62,
+          "width": 0.56
         },
         "silk_line_width": 0.12,
         "silk_text_italic": false,
@@ -45,7 +45,7 @@
         "silk_text_upright": false,
         "zones": {
           "45_degree_only": false,
-          "min_clearance": 0.508
+          "min_clearance": 0.30479999999999996
         }
       },
       "diff_pair_dimensions": [
@@ -604,7 +604,7 @@
   },
   "sheets": [
     [
-      "ebc98f11-e586-4c4b-a627-e9c7c2678962",
+      "41c4a0f2-221f-44b2-861e-d421b9c709b6",
       ""
     ],
     [
@@ -613,7 +613,7 @@
     ],
     [
       "00000000-0000-0000-0000-00005e328d89",
-      "FAN"
+      "Power"
     ],
     [
       "00000000-0000-0000-0000-00005cff70b1",
@@ -626,10 +626,6 @@
     [
       "00000000-0000-0000-0000-00005ed4bb5b",
       "PCIe-connector"
-    ],
-    [
-      "00000000-0000-0000-0000-00005d31f999",
-      "PSUs"
     ]
   ],
   "text_variables": {}

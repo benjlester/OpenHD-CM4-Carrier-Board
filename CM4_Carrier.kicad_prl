@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 44,
+    "active_layer": 0,
     "active_layer_preset": "",
     "hidden_nets": [],
     "high_contrast_mode": 0,
@@ -59,7 +59,7 @@
       37,
       38
     ],
-    "visible_layers": "ffdffff_7fffffff"
+    "visible_layers": "ffc1020_fffffff9"
   },
   "meta": {
     "filename": "CM4_Carrier.kicad_prl",
