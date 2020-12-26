@@ -34,8 +34,8 @@
         "other_text_upright": false,
         "pads": {
           "drill": 0.0,
-          "height": 0.62,
-          "width": 0.56
+          "height": 1.7,
+          "width": 1.7
         },
         "silk_line_width": 0.12,
         "silk_text_italic": false,
@@ -55,14 +55,9 @@
           "width": 0.0
         },
         {
-          "gap": 0.0,
-          "via_gap": 0.0,
-          "width": 0.0
-        },
-        {
-          "gap": 0.0,
-          "via_gap": 0.0,
-          "width": 0.0
+          "gap": 0.2,
+          "via_gap": 0.5,
+          "width": 0.127
         }
       ],
       "drc_exclusions": [],
@@ -127,10 +122,10 @@
         "solder_mask_clearance": 0.051,
         "solder_mask_min_width": 0.25,
         "solder_paste_clearance": 0.0,
-        "solder_paste_margin_ratio": 0.0
+        "solder_paste_margin_ratio": -0.0
       },
       "track_widths": [
-        0.13,
+        0.0,
         0.127,
         0.13,
         0.147,
@@ -143,8 +138,8 @@
       ],
       "via_dimensions": [
         {
-          "diameter": 0.45,
-          "drill": 0.25
+          "diameter": 0.0,
+          "drill": 0.0
         },
         {
           "diameter": 0.45,
@@ -604,7 +599,7 @@
   },
   "sheets": [
     [
-      "41c4a0f2-221f-44b2-861e-d421b9c709b6",
+      "5b54737e-d4bf-4d95-9197-eeb77ac69f95",
       ""
     ],
     [

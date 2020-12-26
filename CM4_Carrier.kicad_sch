@@ -690,9 +690,6 @@
     (path "/00000000-0000-0000-0000-00005e3b330c"
       (reference "H8") (unit 1) (value "MountingHole") (footprint "MountingHole:MountingHole_2.7mm_M2.5")
     )
-    (path "/00000000-0000-0000-0000-00005e072e02/00000000-0000-0000-0000-00005e9b65ca"
-      (reference "#PWR01") (unit 1) (value "GND") (footprint "")
-    )
     (path "/00000000-0000-0000-0000-00005e072e02/2a718c69-d94c-4d37-b105-69cbdb09cd52"
       (reference "#PWR04") (unit 1) (value "GND") (footprint "")
     )
@@ -717,9 +714,6 @@
     (path "/00000000-0000-0000-0000-00005e072e02/00000000-0000-0000-0000-00005db40afb"
       (reference "#PWR012") (unit 1) (value "GND") (footprint "")
     )
-    (path "/00000000-0000-0000-0000-00005e072e02/00000000-0000-0000-0000-00005dd30b91"
-      (reference "#PWR013") (unit 1) (value "GND") (footprint "")
-    )
     (path "/00000000-0000-0000-0000-00005e072e02/00000000-0000-0000-0000-00005dafd9c4"
       (reference "#PWR014") (unit 1) (value "GND") (footprint "")
     )
@@ -737,9 +731,6 @@
     )
     (path "/00000000-0000-0000-0000-00005e072e02/00000000-0000-0000-0000-00005db61f2b"
       (reference "#PWR019") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/00000000-0000-0000-0000-00005e072e02/3228e446-2915-4791-a489-4bc32ec30e80"
-      (reference "#PWR020") (unit 1) (value "GND") (footprint "")
     )
     (path "/00000000-0000-0000-0000-00005e072e02/00000000-0000-0000-0000-00005d4c040b"
       (reference "#PWR021") (unit 1) (value "GND") (footprint "")
@@ -776,6 +767,9 @@
     )
     (path "/00000000-0000-0000-0000-00005e072e02/00000000-0000-0000-0000-00005e63ba85"
       (reference "#PWR0123") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005e072e02/2247b61a-62a2-43d3-9021-463e6e3ceb22"
+      (reference "#PWR0124") (unit 1) (value "GND") (footprint "")
     )
     (path "/00000000-0000-0000-0000-00005e072e02/00000000-0000-0000-0000-00005e09b9bf"
       (reference "#PWR0142") (unit 1) (value "GND") (footprint "")
@@ -819,9 +813,6 @@
     (path "/00000000-0000-0000-0000-00005e072e02/00000000-0000-0000-0000-00005e3ade99"
       (reference "C15") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0402_1005Metric")
     )
-    (path "/00000000-0000-0000-0000-00005e072e02/00000000-0000-0000-0000-00005eb197aa"
-      (reference "C16") (unit 1) (value "100uF") (footprint "Capacitor_Tantalum_SMD:CP_EIA-7343-31_Kemet-D")
-    )
     (path "/00000000-0000-0000-0000-00005e072e02/00000000-0000-0000-0000-00005d4c0411"
       (reference "C17") (unit 1) (value "10u") (footprint "Capacitor_SMD:C_0805_2012Metric")
     )
@@ -837,9 +828,6 @@
     (path "/00000000-0000-0000-0000-00005e072e02/e2628f09-bd34-4c14-80a0-6f01ce68e630"
       (reference "C48") (unit 1) (value "10u") (footprint "Capacitor_SMD:C_0805_2012Metric")
     )
-    (path "/00000000-0000-0000-0000-00005e072e02/58c28f1b-9ad7-4a36-b5bf-849632fbdb1a"
-      (reference "C50") (unit 1) (value "100uF") (footprint "Capacitor_Tantalum_SMD:CP_EIA-7343-31_Kemet-D")
-    )
     (path "/00000000-0000-0000-0000-00005e072e02/01171513-a97a-418a-b99b-88be0b2ed8e5"
       (reference "C53") (unit 1) (value "10u") (footprint "Capacitor_SMD:C_0805_2012Metric")
     )
@@ -852,8 +840,8 @@
     (path "/00000000-0000-0000-0000-00005e072e02/4f52e5ff-2ec3-4ddb-b7de-7749681f5eeb"
       (reference "C56") (unit 1) (value "10u") (footprint "Capacitor_SMD:C_0805_2012Metric")
     )
-    (path "/00000000-0000-0000-0000-00005e072e02/00000000-0000-0000-0000-00005d3a5999"
-      (reference "J11") (unit 1) (value "USB_OTG") (footprint "CM4IO:USB_Micro-B_EDAC_UCON00686")
+    (path "/00000000-0000-0000-0000-00005e072e02/36171f06-48b1-4740-83c2-af8743f8a9ea"
+      (reference "J3") (unit 1) (value "USB4085-GF-A_REVA") (footprint "Open-HD:GCT_USB4085-GF-A_REVA")
     )
     (path "/00000000-0000-0000-0000-00005e072e02/8caef864-38ed-4728-90f7-2a87330bedc0"
       (reference "J13") (unit 1) (value "BM04B-GHS-TBT(LF)(SN)(N)") (footprint "Connectors_JST:JST_GH_SM04B-GHS-TB_04x1.25mm_Angled")
@@ -1129,13 +1117,13 @@
       (reference "J10") (unit 1) (value "Conn_01x20") (footprint "Connector_FFC-FPC:Molex_200528-0200_1x20-1MP_P1.00mm_Horizontal")
     )
     (path "/00000000-0000-0000-0000-00005cff706a/25872e37-64d5-41c7-a3e9-cac3fee6d261"
-      (reference "JP1") (unit 1) (value "Jumper") (footprint "Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm")
+      (reference "JP1") (unit 1) (value "Jumper") (footprint "Jumper:SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm")
     )
     (path "/00000000-0000-0000-0000-00005cff706a/08da7de2-642b-495a-8275-1411af3a4c59"
-      (reference "JP2") (unit 1) (value "Jumper") (footprint "Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm")
+      (reference "JP2") (unit 1) (value "Jumper") (footprint "Jumper:SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm")
     )
     (path "/00000000-0000-0000-0000-00005cff706a/1533636d-8fc0-4f59-b52b-d221c3a94a75"
-      (reference "JP3") (unit 1) (value "Jumper_NC_Dual") (footprint "Jumper:SolderJumper-3_P1.3mm_Bridged12_RoundedPad1.0x1.5mm")
+      (reference "JP3") (unit 1) (value "Jumper_NC_Dual") (footprint "Jumper:SolderJumper-3_P1.3mm_Open_Pad1.0x1.5mm")
     )
     (path "/00000000-0000-0000-0000-00005cff706a/00000000-0000-0000-0000-00005dc6d7d8"
       (reference "Module1") (unit 1) (value "ComputeModule4") (footprint "CM4IO:Raspberry-Pi-4-Compute-Module")
@@ -1165,7 +1153,7 @@
       (reference "R29") (unit 1) (value "12K 1%") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
     (path "/00000000-0000-0000-0000-00005cff706a/ed0e9e04-df20-42e6-83ba-728852d96b96"
-      (reference "SW1") (unit 1) (value "SW_SPST") (footprint "Button_Switch_SMD:SW_SPST_B3S-1000")
+      (reference "SW1") (unit 1) (value "SW_SPST") (footprint "Button_Switch_SMD:SW_Push_SPST_NO_Alps_SKRK")
     )
     (path "/00000000-0000-0000-0000-00005cff706a/a747e8fd-28f4-402b-969b-2c8e62ca6408"
       (reference "TP3") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Pad_2.0x2.0mm")
@@ -1196,6 +1184,9 @@
     )
     (path "/00000000-0000-0000-0000-00005ed4bb5b/00000000-0000-0000-0000-00005ed4ec99"
       (reference "J12") (unit 1) (value "10018783-11200TLF") (footprint "CM4IO:PCIex1-36")
+    )
+    (path "/00000000-0000-0000-0000-00005ed4bb5b/42ae4db4-6840-4fd3-b1a8-00d313d6f619"
+      (reference "J?") (unit 1) (value "2199119-4") (footprint "TE_2199119-4")
     )
   )
 )

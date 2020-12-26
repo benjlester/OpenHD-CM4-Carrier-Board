@@ -2,4 +2,6 @@
   (lib (name "CM4IO")(type "KiCad")(uri "${KIPRJMOD}/Library/Symbols/CM4IO.kicad_sym")(options "")(descr ""))
   (lib (name "Open-HD")(type "KiCad")(uri "${KIPRJMOD}/Library/Symbols/Open-HD.kicad_sym")(options "")(descr ""))
   (lib (name "DF40C-24DP-0.4V_51_")(type "Legacy")(uri "${KIPRJMOD}/Library/Symbols/DF40C-24DP-0.4V_51_.lib")(options "")(descr ""))
+  (lib (name "USB4085-GF-A_REVA")(type "Legacy")(uri "${KIPRJMOD}/Library/Symbols/USB4085-GF-A_REVA.lib")(options "")(descr ""))
+  (lib (name "2199119-4")(type "Legacy")(uri "${KIPRJMOD}/Library/Symbols/2199119-4.lib")(options "")(descr ""))
 )

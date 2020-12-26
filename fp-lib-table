@@ -2,4 +2,5 @@
   (lib (name "CM4IO")(type "KiCad")(uri "${KIPRJMOD}/Library/Footprints/CM4IO.pretty")(options "")(descr ""))
   (lib (name "Connectors_JST")(type "KiCad")(uri "${KIPRJMOD}/Library/Footprints/Connectors_JST.pretty-master")(options "")(descr ""))
   (lib (name "Open-HD")(type "KiCad")(uri "${KIPRJMOD}/Library/Footprints/Open-HD.pretty")(options "")(descr ""))
+  (lib (name "m2ngff")(type "KiCad")(uri "${KIPRJMOD}/Library/Footprints/m2ngff.pretty")(options "")(descr ""))
 )
