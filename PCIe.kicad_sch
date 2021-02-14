@@ -535,12 +535,12 @@
   (junction (at 165.1 50.8) (diameter 1.016) (color 0 0 0 0))
   (junction (at 165.1 53.34) (diameter 1.016) (color 0 0 0 0))
 
-  (no_connect (at 161.29 33.02))
   (no_connect (at 132.08 73.66))
   (no_connect (at 132.08 43.18))
   (no_connect (at 161.29 48.26))
-  (no_connect (at 132.08 58.42))
   (no_connect (at 132.08 45.72))
+  (no_connect (at 161.29 33.02))
+  (no_connect (at 132.08 58.42))
 
   (wire (pts (xy 118.11 50.8) (xy 129.54 50.8))
     (stroke (width 0) (type solid) (color 0 0 0 0))
@@ -797,7 +797,7 @@
   (symbol (lib_id "2199119-4:2199119-4") (at 243.84 93.98 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid "42ae4db4-6840-4fd3-b1a8-00d313d6f619")
-    (property "Reference" "J?" (id 0) (at 244.475 40.64 0))
+    (property "Reference" "J4" (id 0) (at 244.475 40.64 0))
     (property "Value" "2199119-4" (id 1) (at 244.475 43.18 0))
     (property "Footprint" "TE_2199119-4" (id 2) (at 243.84 93.98 0)
       (effects (font (size 1.27 1.27)) (justify left bottom) hide)
