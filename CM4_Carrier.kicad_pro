@@ -459,12 +459,6 @@
         "microvia_drill": 0.1,
         "name": "90R",
         "nets": [
-          "/PCIE_CLK_N",
-          "/PCIE_CLK_P",
-          "/PCIE_RX_N",
-          "/PCIE_RX_P",
-          "/PCIE_TX_N",
-          "/PCIE_TX_P",
           "/USB2-HUB/HD1_N",
           "/USB2-HUB/HD1_P",
           "/USB2-HUB/HD2_N",
@@ -594,7 +588,7 @@
   },
   "sheets": [
     [
-      "ca761a35-cc30-4c02-84b2-0b0c2ead5efd",
+      "313f53b5-501d-49c6-aaa9-dd9e19b6c45e",
       ""
     ],
     [
@@ -612,10 +606,6 @@
     [
       "00000000-0000-0000-0000-00005cff706a",
       "CM4_GPIO ( Ethernet, GPIO, SDCARD)"
-    ],
-    [
-      "00000000-0000-0000-0000-00005ed4bb5b",
-      "PCIe-connector"
     ]
   ],
   "text_variables": {}

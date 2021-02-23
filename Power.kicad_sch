@@ -1,6 +1,6 @@
 (kicad_sch (version 20201015) (generator eeschema)
 
-  (page 1 6)
+  (page 1 5)
 
   (paper "A4")
 
@@ -641,8 +641,8 @@
   (junction (at 243.84 130.81) (diameter 1.016) (color 0 0 0 0))
   (junction (at 254 106.68) (diameter 1.016) (color 0 0 0 0))
 
-  (no_connect (at 161.29 111.76))
   (no_connect (at 71.755 169.545))
+  (no_connect (at 161.29 111.76))
   (no_connect (at 71.755 172.085))
 
   (wire (pts (xy 36.195 159.385) (xy 78.105 159.385))
@@ -1017,7 +1017,7 @@
     (property "Value" "TestPoint" (id 1) (at 175.4632 29.0322 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "TestPoint:TestPoint_Pad_2.0x2.0mm" (id 2) (at 179.07 29.718 0)
+    (property "Footprint" "Connector_PinHeader_2.00mm:PinHeader_1x01_P2.00mm_Vertical" (id 2) (at 179.07 29.718 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at 179.07 29.718 0)
