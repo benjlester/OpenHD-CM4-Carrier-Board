@@ -185,7 +185,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "USB2-HUB.kicad_pro",
+    "filename": "Power.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -255,7 +255,7 @@
   },
   "sheets": [
     [
-      "0c010603-51d5-455d-bb09-d5ea9276159c",
+      "c45b35a6-0eb0-4dab-aa07-9b6773dbc882",
       ""
     ]
   ],

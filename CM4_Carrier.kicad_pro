@@ -33,9 +33,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.25,
-          "height": 0.5,
-          "width": 0.5
+          "drill": 2.7,
+          "height": 2.7,
+          "width": 2.7
         },
         "silk_line_width": 0.12,
         "silk_text_italic": false,
@@ -526,12 +526,7 @@
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
         "name": "POE TAPS",
-        "nets": [
-          "/CM4_GPIO ( Ethernet, GPIO, SDCARD)/TR0_TAP",
-          "/CM4_GPIO ( Ethernet, GPIO, SDCARD)/TR1_TAP",
-          "/CM4_GPIO ( Ethernet, GPIO, SDCARD)/TR2_TAP",
-          "/CM4_GPIO ( Ethernet, GPIO, SDCARD)/TR3_TAP"
-        ],
+        "nets": [],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.13,
@@ -588,7 +583,7 @@
   },
   "sheets": [
     [
-      "313f53b5-501d-49c6-aaa9-dd9e19b6c45e",
+      "cae43433-1ffe-406d-8376-0bcee0f2772c",
       ""
     ],
     [
