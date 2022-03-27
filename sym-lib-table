@@ -8,4 +8,7 @@
   (lib (name "2021-03-10_00-43-16")(type "Legacy")(uri "${KIPRJMOD}/Library/Symbols/2021-03-10_00-43-16.lib")(options "")(descr ""))
   (lib (name "SM04B-GHS-TB_LF__SN_-")(type "Legacy")(uri "${KIPRJMOD}/Library/Symbols/SM04B-GHS-TB_LF__SN_-.lib")(options "")(descr ""))
   (lib (name "SM06B-GHS-TB_LF__SN_")(type "Legacy")(uri "${KIPRJMOD}/Library/Symbols/SM06B-GHS-TB_LF__SN_.lib")(options "")(descr ""))
+  (lib (name "MIC21LV33YML-TR")(type "Legacy")(uri "${KIPRJMOD}/Library/Symbols/2022-03-18_18-21-03.lib")(options "")(descr ""))
+  (lib (name "2022-03-20_01-55-59")(type "Legacy")(uri "${KIPRJMOD}/Library/Symbols/2022-03-20_01-55-59.lib")(options "")(descr ""))
+  (lib (name "685119248123")(type "Legacy")(uri "${KIPRJMOD}/Library/Symbols/685119248123.lib")(options "")(descr ""))
 )
